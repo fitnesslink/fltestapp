@@ -1,0 +1,6 @@
+@FLTestApp_HostAddress = http://localhost:5213
+
+GET {{FLTestApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
